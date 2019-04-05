@@ -1,2 +1,2 @@
 # BasicProject
-HTML CSS JAVASCRIPT
+CodeBaseCamp Basic Project for HTML CSS JAVASCRIPT
